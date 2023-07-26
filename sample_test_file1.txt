@@ -3,3 +3,5 @@ This is sample test file
 
 
 Testing reset and revert file
+
+Git revert commit 1
